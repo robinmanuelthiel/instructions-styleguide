@@ -1,6 +1,7 @@
-# Styleguide
-For writing technical instructions in Markdown
+# Markdown Styleguide
+For writing technical instructions
 
+**Contents**
 1. [Project organization](README.md#01-project-organization)
 1. [Headlines](README.md#02-headlines)
 1. [Screenshots](README.md#03-screenshots)
