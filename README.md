@@ -1,6 +1,9 @@
 # Styleguide for writing technical instructions in Markdown
 
-## Organization
+[Project organization](/#Screenshots)
+
+
+## 01 Project organization
 
 - Separate your instructions into modules
 - Give each module a name including order number and name
@@ -8,7 +11,7 @@
 - Add a `README.md` to each module folder for the content
 - Add a `Resources` folder to a module for screenshots etc if needed
 
-## Headlines
+## 02 Headlines
 
 Add one single H1 headline with the title of the module at the beginning and describe briefly what to expect in this module. Point out what the module is about and why we are doing it.
 
