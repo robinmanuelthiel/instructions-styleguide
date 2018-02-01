@@ -17,12 +17,12 @@
 
 ## 02 Headlines
 
-Add one single H1 headline with the title of the module at the beginning and describe briefly what to expect in this module. Point out what the module is about and why we are doing it.
+Add one single H1 headline with the title of the module at the beginning of the file and describe briefly what to expect in this module. Point out what the module is about and why we are doing it.
 
 For every step, add a H2 numbered headline and add H2 headlines if you need to structure sub steps.
 
 
-> # 03 Adding documentation
+> # Adding documentation
 > In this module, we will add documentation to the project. Not only this increases...
 > 
 > ## 1. Documentation root
@@ -32,7 +32,7 @@ For every step, add a H2 numbered headline and add H2 headlines if you need to s
 ###### Markdown
 
 ```
-# 03 Adding Documentation
+# Adding Documentation
 
 In this module, we will add documentation to...
 
