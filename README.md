@@ -1,9 +1,10 @@
-# Styleguide for writing technical instructions in Markdown
+# Styleguide
+For writing technical instructions in Markdown
 
 1. [Project organization](README.md#01-project-organization)
 1. [Headlines](README.md#02-headlines)
 1. [Code, Buttons or Files](README.md#03-code-buttons-or-files)
-1. [Hints and warnings](README.md#05-hints-and-warnings)
+1. [Hints and warnings](README.md#04-hints-and-warnings)
 1. [Example](README.md#05-Example)
 
 
