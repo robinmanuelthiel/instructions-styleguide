@@ -70,7 +70,7 @@ var code = "This is a C# string";
 
 You will come to a point where you mention a class name, method or variable in your documentation
 
-- Clickable Elements are ***Bold and italic***
+- Clickable elements like buttons and menu items are ***Bold and italic***
 - Code as classnames and methods are `marked as code`
 - Filenames are also `Marked.text`
 
