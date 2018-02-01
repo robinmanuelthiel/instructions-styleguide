@@ -1,7 +1,10 @@
 # Styleguide for writing technical instructions in Markdown
 
-[01 Project organization](README.md#01-project-organization)
-[02 Headlines](README.md#02-headlines)
+1. [Project organization](README.md#01-project-organization)
+1. [Headlines](README.md#02-headlines)
+1. [Code, Buttons or Files](README.md#03-Code,-Buttons-or-Files)
+1. [Hints and warnings](README.md#04-Hints-and-warnings)
+1. [Example](README.md#05-Example)
 
 
 ## 01 Project organization
@@ -19,15 +22,12 @@ Add one single H1 headline with the title of the module at the beginning and des
 For every step, add a H2 numbered headline and add H2 headlines if you need to structure sub steps.
 
 
-> &nbsp;
 > # 03 Adding documentation
 > In this module, we will add documentation to the project. Not only this increases...
 > 
 > ## 1. Documentation root
 > ### 1.1 Create a new Markdown file
 > Let's start with a new file which defines you root. To create a new markdown file, click the ***New*** button at the top left corner...
-> 
-> &nbsp;
 
 ###### Markdown
 
@@ -54,7 +54,7 @@ Also let all Screenshots link to the original images in case readers need a larg
 ###### Markdown
 
 ```
-![New Xamarin.Forms project in Visual Studio Screenshot](Resources/vsnewxamarinformsproject.png)
+![Describe Screenshot](Resources/screenshot.png)
 ```
 
 ## Code, Buttons or Files
@@ -101,5 +101,5 @@ Use quotes to highlight hints and warnings in your documentation whenever you fe
 >**Hint:** This is a hint!
 ```
 
-## Example
+## 04 Example
 https://github.com/robinmanuelthiel/xamarinworkshop/tree/master/07%20Platform%20Specifics
