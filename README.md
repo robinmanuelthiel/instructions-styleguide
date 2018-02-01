@@ -1,6 +1,7 @@
 # Styleguide for writing technical instructions in Markdown
 
-[Project organization](/#Screenshots)
+[01 Project organization](README.md#01-project-organization)
+[02 Headlines](README.md#02-headlines)
 
 
 ## 01 Project organization
