@@ -14,7 +14,7 @@ For writing technical instructions
 
 - Separate your instructions into modules
 - Give each module a name including order number and name
-  - Example: `03 Adding Documentation`
+  - Example: **03 Adding Documentation**
 - Add a `README.md` to each module folder for the content
 - Add a `Resources` folder to a module for screenshots etc if needed
 
@@ -22,7 +22,7 @@ For writing technical instructions
 
 Add one single H1 headline with the title of the module at the beginning of the file and describe briefly what to expect in this module. Point out what the module is about and why we are doing it.
 
-For every step, add a H2 numbered headline and add H3 headlines if you need to structure sub steps.
+For every step, add a H2 numbered headline and add H3 headlines if you need to structure substeps.
 
 
 > # Adding documentation
@@ -36,13 +36,10 @@ For every step, add a H2 numbered headline and add H3 headlines if you need to s
 
 ```
 # Adding Documentation
-
 In this module, we will add documentation to...
 
 ## 1. Documentation root
-
 ### 1.1 Create a new Markdown file
-
 Let's start with a new file which defines you root. To create a new markdown file, click the ***New*** button at the top left corner... 
 ```
 
@@ -50,7 +47,7 @@ Let's start with a new file which defines you root. To create a new markdown fil
 
 Add screenshots where ever it makes sense and add as much as possible. Please make sure, to capture in a wide landscape format to make the screenshot as narrow as possible to increase readability.
 
-Also let all Screenshots link to the original images in case readers need a larger view.
+Also, let all screenshots link to the original images in case readers need a larger view.
 
 ![New Xamarin.Forms project in Visual Studio Screenshot](https://raw.githubusercontent.com/robinmanuelthiel/xamarinworkshop/master/Misc/vsnewxamarinformsproject.png)
 
@@ -64,7 +61,7 @@ Also let all Screenshots link to the original images in case readers need a larg
 
 Whenever providing code, make sure to wrap it into a dedicated coding block. Even if it is just a single line. Do never write any code inline!
 
-Make sure to sepcify the language to get proper syntax highlighting which increases readability.
+Make sure to specify the language to get proper syntax highlighting which increases readability.
 
 ```csharp
 // Add comments to your code
@@ -90,7 +87,7 @@ var code = "This is a C# string";
 
 ## 05 Hints and warnings
 
-Use quotes to highlight hints and warnings in your documentation whenever you feel the need to highlight an important sidenote. Use a bold "**Warning:**" or "**Hint:**" to introduce.
+Use quotes to highlight hints and warnings in your documentation whenever you feel the need to highlight an important side note. Use a bold "**Warning:**" or "**Hint:**" to introduce.
 
 >**Warning:** This is a warning!
 
