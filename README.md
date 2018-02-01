@@ -19,7 +19,7 @@
 
 Add one single H1 headline with the title of the module at the beginning of the file and describe briefly what to expect in this module. Point out what the module is about and why we are doing it.
 
-For every step, add a H2 numbered headline and add H2 headlines if you need to structure sub steps.
+For every step, add a H2 numbered headline and add H3 headlines if you need to structure sub steps.
 
 
 > # Adding documentation
