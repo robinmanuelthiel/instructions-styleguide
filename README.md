@@ -2,8 +2,8 @@
 
 1. [Project organization](README.md#01-project-organization)
 1. [Headlines](README.md#02-headlines)
-1. [Code, Buttons or Files](README.md#03-Code,-Buttons-or-Files)
-1. [Hints and warnings](README.md#04-Hints-and-warnings)
+1. [Code, Buttons or Files](README.md#03-code-buttons-or-files)
+1. [Hints and warnings](README.md#05-hints-and-warnings)
 1. [Example](README.md#05-Example)
 
 
@@ -57,7 +57,7 @@ Also let all Screenshots link to the original images in case readers need a larg
 ![Describe Screenshot](Resources/screenshot.png)
 ```
 
-## Code, Buttons or Files
+## 03 Code, Buttons or Files
 
 Whenever providing code, make sure to wrap it into a dedicated coding block. Even if it is just a single line. Do never write any code inline!
 
@@ -85,7 +85,7 @@ You will come to a point where you mention a class name, method or variable in y
 var code = "This is a C# string";
 ```</code></pre>
 
-## Hints and warnings
+## 04 Hints and warnings
 
 Use quotes to highlight hints and warnings in your documentation whenever you feel the need to highlight an important sidenote. Use a bold "**Warning:**" or "**Hint:**" to introduce.
 
