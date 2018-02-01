@@ -3,9 +3,10 @@ For writing technical instructions in Markdown
 
 1. [Project organization](README.md#01-project-organization)
 1. [Headlines](README.md#02-headlines)
-1. [Code, Buttons or Files](README.md#03-code-buttons-or-files)
-1. [Hints and warnings](README.md#04-hints-and-warnings)
-1. [Example](README.md#05-Example)
+1. [Headlines](README.md#02-screenshots)
+1. [Code, Buttons or Files](README.md#04-code-buttons-or-files)
+1. [Hints and warnings](README.md#05-hints-and-warnings)
+1. [Example](README.md#06-Example)
 
 
 ## 01 Project organization
@@ -44,7 +45,7 @@ In this module, we will add documentation to...
 Let's start with a new file which defines you root. To create a new markdown file, click the ***New*** button at the top left corner... 
 ```
 
-## Screenshots
+## 03 Screenshots
 
 Add screenshots where ever it makes sense and add as much as possible. Please make sure, to capture in a wide landscape format to make the screenshot as narrow as possible to increase readability.
 
@@ -58,7 +59,7 @@ Also let all Screenshots link to the original images in case readers need a larg
 ![Describe Screenshot](Resources/screenshot.png)
 ```
 
-## 03 Code, Buttons or Files
+## 04 Code, Buttons or Files
 
 Whenever providing code, make sure to wrap it into a dedicated coding block. Even if it is just a single line. Do never write any code inline!
 
@@ -86,7 +87,7 @@ You will come to a point where you mention a class name, method or variable in y
 var code = "This is a C# string";
 ```</code></pre>
 
-## 04 Hints and warnings
+## 05 Hints and warnings
 
 Use quotes to highlight hints and warnings in your documentation whenever you feel the need to highlight an important sidenote. Use a bold "**Warning:**" or "**Hint:**" to introduce.
 
@@ -102,5 +103,5 @@ Use quotes to highlight hints and warnings in your documentation whenever you fe
 >**Hint:** This is a hint!
 ```
 
-## 04 Example
+## 05 Example
 https://github.com/robinmanuelthiel/xamarinworkshop/tree/master/07%20Platform%20Specifics
